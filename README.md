@@ -55,9 +55,9 @@ hugo new posts/hu-demo-first-post.md
 
 ```
 - 新增hugo.yaml(=hugo.toml)
-    從[hugo-theme-anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/#update-config-file)複製內容
+      從[hugo-theme-anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/#update-config-file)複製內容
 - 目前目錄結構
-    <img src="./images/04.png">
+      <img src="./images/04.png">
 
 
 ### 1.3 本地端運行網站
