@@ -66,7 +66,7 @@ hugo new posts/hu-demo-first-post.md
 hugo server -D
 ```
 - 成功畫面
-<img src="./images/05.png">
+    <img src="./images/05.png">
     
 
 ### 2.1. 在GitHub建立一個repo: hu-demo
@@ -78,7 +78,7 @@ hugo server -D
 //在hugo.yaml修改baseUrl
 baseUrl: "https://<github.username>.github.io/<github.repo.name>/"
 ```
-<img src="./images/07.png">
+    <img src="./images/07.png">
 
 
 ### 2.3. 在本地端產生靜態網頁
@@ -87,31 +87,31 @@ baseUrl: "https://<github.username>.github.io/<github.repo.name>/"
 hugo -D
 ```
 - public資料夾內容
-<img src="./images/08.png">
+    <img src="./images/08.png">
 
 
 ### 2.4. 上傳檔案到GitHub
 - 到GitHub.hu-demo上傳public資料夾內容
-<img src="./images/09.png">
+    <img src="./images/09.png">
 - commit後,hu-demo會出現以下檔案
-<img src="./images/10.png">
+    <img src="./images/10.png">
 
 
 ### 2.5. 設定GitHub Pages
 - 按照以下1.2.3.4.步驟設定
-<img src="./images/11.png">
+  <img src="./images/11.png">
 - 點選save後，要等網頁佈署2-3分鐘，再重新整理網頁，會看到網頁路徑
-<img src="./images/12.png">
+  <img src="./images/12.png">
 - 網站佈署成功
 
 ---
 
 
 ## 參考資源
-[Hugo](https://gohugo.io/)
-[hugo-theme-anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/)
-[使用 Hugo 在 Github Pages 建立靜態網站](https://hackmd.io/@udzQ2BohS5C0Xc66dtaYIA/S1wSWRbrO)
-[使用「Hugo」架設 Blog 起手勢](https://coreynote.life/posts/2022/12/hello-hugo/)
-[HUGO - 基礎教學](https://hi-founder.com/p/hugo-%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8/#configtoml-%E5%B8%B8%E7%94%A8%E9%A0%85%E7%9B%AE)
+- [Hugo](https://gohugo.io/)
+- [hugo-theme-anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/)
+- [使用 Hugo 在 Github Pages 建立靜態網站](https://hackmd.io/@udzQ2BohS5C0Xc66dtaYIA/S1wSWRbrO)
+- [使用「Hugo」架設 Blog 起手勢](https://coreynote.life/posts/2022/12/hello-hugo/)
+- [HUGO - 基礎教學](https://hi-founder.com/p/hugo-%E5%9F%BA%E7%A4%8E%E6%95%99%E5%AD%B8/#configtoml-%E5%B8%B8%E7%94%A8%E9%A0%85%E7%9B%AE)
 
 
