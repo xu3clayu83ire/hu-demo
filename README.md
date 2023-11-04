@@ -84,8 +84,8 @@ baseUrl: "https://<github.username>.github.io/<github.repo.name>/"
 //產生一個public資料夾,並生成靜態網頁
 hugo -D
 ```
-- public資料夾內容
-    <img src="./images/08.png">
+- public資料夾內容<br>
+<img src="./images/08.png">
 
 
 ### 2.4. 上傳檔案到GitHub
