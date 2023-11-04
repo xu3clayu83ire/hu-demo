@@ -27,12 +27,12 @@
 - [下載hugo_extended_0.120.3_windows-amd64.zip](https://github.com/gohugoio/hugo/releases)
 - 本地解壓縮完放到指定路徑,並設置系統環境變數
     <img src="./images/1.png">
-    ![image.png](https://hackmd.io/_uploads/HJCIdsQQT.png)
+    <img src="./images/02.png">
 - 確認Hugo指定可以執行
     ```
     hugo version
     ```
-    ![image.png](https://hackmd.io/_uploads/r1iRdsXQa.png)
+    <img src="./images/03.png">
 
 
 ### 1.2 本地端建立Hugo網站版型
@@ -57,7 +57,7 @@ hugo new posts/hu-demo-first-post.md
 - 新增hugo.yaml(=hugo.toml)
     從[hugo-theme-anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/#update-config-file)複製內容
 - 目前目錄結構
-    ![image.png](https://hackmd.io/_uploads/SykPToQmT.png)
+    <img src="./images/04.png">
 
 
 ### 1.3 本地端運行網站
@@ -66,11 +66,11 @@ hugo new posts/hu-demo-first-post.md
 hugo server -D
 ```
 - 成功畫面
-![image.png](https://hackmd.io/_uploads/Hkou0iXmT.png)
+<img src="./images/05.png">
     
 
 ### 2.1. 在GitHub建立一個repo: hu-demo
-![image.png](https://hackmd.io/_uploads/Sk-Egn7m6.png)
+<img src="./images/06.png">
 
 
 ### 2.2. 修改baseURL
@@ -78,7 +78,7 @@ hugo server -D
 //在hugo.yaml修改baseUrl
 baseUrl: "https://<github.username>.github.io/<github.repo.name>/"
 ```
-![image.png](https://hackmd.io/_uploads/B16tWhmmp.png)
+<img src="./images/07.png">
 
 
 ### 2.3. 在本地端產生靜態網頁
@@ -87,25 +87,22 @@ baseUrl: "https://<github.username>.github.io/<github.repo.name>/"
 hugo -D
 ```
 - public資料夾內容
-![image.png](https://hackmd.io/_uploads/S1hGG2776.png)
+<img src="./images/08.png">
 
 
 ### 2.4. 上傳檔案到GitHub
 - 到GitHub.hu-demo上傳public資料夾內容
-![image.png](https://hackmd.io/_uploads/ry34E3m7T.png)
+<img src="./images/09.png">
 - commit後,hu-demo會出現以下檔案
-![image.png](https://hackmd.io/_uploads/HytHE37Xp.png)
+<img src="./images/10.png">
 
 
 ### 2.5. 設定GitHub Pages
 - 按照以下1.2.3.4.步驟設定
-![image.png](https://hackmd.io/_uploads/ryQWH3XQa.png)
+<img src="./images/11.png">
 - 點選save後，要等網頁佈署2-3分鐘，再重新整理網頁，會看到網頁路徑
-![image.png](https://hackmd.io/_uploads/BkKyUhQ7p.png)
+<img src="./images/12.png">
 - 網站佈署成功
-![image.png](https://hackmd.io/_uploads/S1LyDhm7a.png)
-
-
 
 ---
 
