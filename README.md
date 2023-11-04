@@ -26,7 +26,7 @@
 ### 1.1 安裝Hugo(windows)
 - [下載hugo_extended_0.120.3_windows-amd64.zip](https://github.com/gohugoio/hugo/releases)
 - 本地解壓縮完放到指定路徑,並設置系統環境變數
-    ![image.png](https://hackmd.io/_uploads/BklQwiQX6.png)
+    <img src="./images/01.png">
     ![image.png](https://hackmd.io/_uploads/HJCIdsQQT.png)
 - 確認Hugo指定可以執行
     ```
