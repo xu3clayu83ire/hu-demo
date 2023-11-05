@@ -4,9 +4,9 @@
 1. 使用Hugo建立靜態網站
 2. 發布靜態網站到GitHubPages
 
-## 前置條件
-1. 需要安裝Git
-2. 需要使用Git Bash
+## 前置準備
+1. 安裝[Git](https://git-scm.com/)
+2. 使用Git Bash
 
 ## 使用Hugo建立靜態網站
 #### 三個步驟
@@ -47,7 +47,7 @@ cd ..
 //產生模板
 hugo new site hu-demo
 
-/移動到C:\hugo\hu-demo
+//移動到C:\hugo\hu-demo
 cd hu-demo
 
 //加入版型
@@ -109,7 +109,7 @@ hugo -D
 ---
 
 
-## 參考資源
+### 參考資源
 - [Hugo](https://gohugo.io/)
 - [hugo-theme-anubis](https://themes.gohugo.io/themes/hugo-theme-anubis/)
 - [使用 Hugo 在 Github Pages 建立靜態網站](https://hackmd.io/@udzQ2BohS5C0Xc66dtaYIA/S1wSWRbrO)
