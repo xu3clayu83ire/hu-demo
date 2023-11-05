@@ -80,8 +80,6 @@ hugo server -D
 //在hugo.yaml修改baseUrl
 baseUrl: "https://<github.username>.github.io/<github.repo.name>/"
 ```
-    <img src="./images/07.png">
-
 
 ### 2.3. 在本地端產生靜態網頁
 ```
