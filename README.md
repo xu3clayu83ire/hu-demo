@@ -101,7 +101,7 @@ hugo -D
 - 點選save後，要等網頁佈署2-3分鐘，再重新整理網頁，會看到網頁路徑
   <img src="./images/12.png">
 - 網站佈署成功
-
+    [首頁](https://xu3clayu83ire.github.io/hu-demo/)
 ---
 
 
