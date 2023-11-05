@@ -4,6 +4,10 @@
 1. 使用Hugo建立靜態網站
 2. 發布靜態網站到GitHubPages
 
+## 前置條件
+1. 需要安裝Git
+2. 需要使用Git Bash
+
 ## 使用Hugo建立靜態網站
 #### 三個步驟
 1. 安裝Hugo(windows)
